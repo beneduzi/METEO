@@ -1,0 +1,34 @@
+## Arquivos compilados
+*.pyc
+*.pyo
+*.exe
+run/
+
+## Compactados 
+*.tar
+*.gz
+*.zip
+*.rar
+
+## Pacotes
+*.deb
+
+## Databases
+*.nc
+*.nc4
+*.grib
+*.grb
+*.grb2
+
+## Logs e dados
+*.log
+out/
+data/
+
+## Arquivos do sistema
+*~
+
+## Ambiente de desenvolvimento
+venv/
+
+## Outros repositorios
